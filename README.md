@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 ![](https://visitor-badge.laobi.icu/badge?page_id=lining1029.readme)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lining1029)](https://github.com/anuraghazra/github-readme-stats)
 
