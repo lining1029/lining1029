@@ -1,8 +1,10 @@
-### Hi there 👋 ![](https://visitor-badge.laobi.icu/badge?page_id=lining1029.readme)
+### Hi there 👋 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lining1029)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lining1029&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lining1029&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lining1029)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 <!--
