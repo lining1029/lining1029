@@ -1,10 +1,17 @@
 ### Hi there 👋 
+<table>
+<tr>
+<td valign="top" width="50%">
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lining1029&show_icons=true&theme=radical)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lining1029)](https://github.com/anuraghazra/github-readme-stats)
+
+</td>
+<td valign="top" width="50%">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lining1029)](https://github.com/anuraghazra/github-readme-stats)
 
-
+</td>
+<td valign="top" width="50%">
 
 
 <!--
